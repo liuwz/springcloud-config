@@ -1,2 +1,6 @@
-test: 哈哈
-  why: 因为高兴
+server:
+  port: 8763
+
+spring:
+  application:
+    name: service-hello
