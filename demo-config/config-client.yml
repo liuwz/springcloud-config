@@ -2,4 +2,7 @@ user:
   body: good
   head: clear
   sport: play game
-    name: lol  
+sport:
+  real:
+    name:
+      default: lol
