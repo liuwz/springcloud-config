@@ -1,6 +1,6 @@
   
 foo: spring.appliation.name is test-update-name.yml
-liu: 刘文钊又变的究极帅了啊哈哈
-age: 24
+liu: 刘文钊又变的究极帅了啊哈哈更改
+age: 25
 user:
   body: very good
