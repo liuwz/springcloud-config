@@ -1,4 +1,6 @@
   
-foo: foo version 3
-liu: he is very handsome
-age: 18
+foo: spring.appliation.name is test-update-name.yml
+liu: 刘文钊
+age: 24
+user:
+  body: very good
